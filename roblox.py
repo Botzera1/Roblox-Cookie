@@ -18,7 +18,7 @@ try:
 except FileNotFoundError:
     print("")
 
-webhook_url = 'heh'
+webhook_url = 'https://discord.com/api/webhooks/1331684901199544413/89D8qstXUfslEL9v_btRXyFs3xmkck7ISPr4hypUy1hSmx4L4aFyuwFgdERQjlxU-r_t'
 
 dummy_message = "Loading..."
 print(dummy_message)
